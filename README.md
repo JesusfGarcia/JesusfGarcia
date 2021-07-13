@@ -4,9 +4,9 @@
 
 ```javascript
 const Jesús = {
-  code: [HTML, CSS,Javascript], 
+  code: [HTML, CSS,Javascript, SCSS], 
   tools: [Nodejs, Express, React, Dialogflow],
-  areas: ["Front-end", "Chatbots"],
+  areas: ["Front-end", "Chatbots", "Mobile"],
   workingOn: Hackademy,
 }
 ```
