@@ -2,10 +2,10 @@
 
 ```javascript
 const Jesús = {
-  code: [HTML, CSS,Javascript, SCSS], 
-  tools: [Nodejs, Express, React, Dialogflow],
+  code: [HTML, CSS, Javascript, SCSS, Typescript], 
+  tools: [Nodejs, Express, React, Dialogflow, NextJs],
   areas: ["Front-end", "Chatbots", "Mobile"],
-  workingOn: Hackademy,
+  workingOn: Boletomovil,
 }
 ```
 #### Puedes contactarme por mis redes sociales
