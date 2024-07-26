@@ -3,7 +3,7 @@
 ```javascript
 const Jesús = {
   code: [HTML, CSS, Javascript, SCSS, Typescript], 
-  tools: [Nodejs, Express, React, Dialogflow, NextJs],
+  tools: [Nodejs, Express, React, Dialogflow, NextJs, Serverless],
   areas: ["Front-end", "Chatbots", "Mobile"],
   workingOn: Boletomovil,
 }
